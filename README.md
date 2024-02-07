@@ -1,4 +1,4 @@
-#Basic Website Repository (HTML/CSS/JS)
+# Basic Website Repository (HTML/CSS/JS)
 
-##Developer
+## Developer
 1. Conggass, Emman Isaac D.
