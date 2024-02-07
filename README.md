@@ -1,4 +1,4 @@
-# Collection of websites using HTML, CSS, and JavaScript.
-## I'll drop some banger websites (or not)
+#Basic Website Repository (HTML/CSS/JS)
 
-E. I. Conggas
+##Developer
+1. Conggass, Emman Isaac D.
